@@ -19,7 +19,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 For this project, I was interestested in using a dataset about obesity and lifestyle habits created by researchers in Colombia, Peru and Mexico (Mendoza Palechor F and De La Hoz, 2019) to better understand:
 
 1. What factors do have a higher influence on becoming overweight (i.e, what factors better predict a high Body Mass Index): lifestyle habits or the genetic makeup of the individual?
-2. Among lifestyle habits, which are more important to become overweight: eating habits or an active (i.e. physicial exercise) lifestyle?
+2. Among lifestyle habits, which are more strongly associated with overweight: eating habits or an inactive (i.e. lack of physical exercise) lifestyle?
 3. Can fasting be a useuful approach for weight management?
 
 
