@@ -1,4 +1,4 @@
-# body_mass_index
+# Body Mass Index: multiple linear regression
 Repository for the first project of Udacity's Data Scientist nanodegree, where I run a multiple linear regression model of body mass index to estimate how much does genetics and lifestyle habits make an influence on being overweight.
 
 
