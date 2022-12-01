@@ -16,7 +16,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using a dataset about obesity and lifestyle habits created by researchers in Colombia, Peru and Mexico (Mendoza Palechor F and De La Hoz, 2019) to better understand:
+For this project, I was interestested in using a dataset about obesity and lifestyle habits created by researchers in Colombia, Peru and Mexico (Mendoza Palechor F and De La Hoz, 2019, see Kaggle link below) to better understand:
 
 1. What factors do have a higher influence on becoming overweight (i.e, what factors better predict a high Body Mass Index): lifestyle habits or the genetic makeup of the individual?
 2. Among lifestyle habits, which are more strongly associated with overweight: eating habits or an inactive (i.e. lack of physical exercise) lifestyle?
@@ -34,6 +34,6 @@ The main findings of the code can be found at the post available [here](https://
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/code/mpwolke/obesity-levels-life-style/notebook). 
+You can find the Licensing for the data and other descriptive information at the Kaggle link where the dataset is available [here](https://www.kaggle.com/code/mpwolke/obesity-levels-life-style/notebook). 
 There are also 2 research papers describing the creation of the dataset (see 'References' section at the end of the notebook).
 Otherwise, feel free to use the code here as you would like! 
